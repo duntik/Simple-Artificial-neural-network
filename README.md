@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-:heart:<h4 align="center">Simple artificial neural network, with using the <a href="https://github.com/BrainJS/brain.js"target="https://github.com/BrainJS/brain.js">brain.js</a></h4>
+<h4 align="center">Simple artificial neural network, with using the <a href="https://github.com/BrainJS/brain.js" target="https://github.com/BrainJS/brain.js">brain.js</a></h4> :heart:
 
 ## Instructions
 
